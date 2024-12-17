@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 -->
 
 • 👋 Hi, I’m @joaorozestraten
+<br>
 • 🎓 I’m studying Computer Engineering at PUC Campinas (2024-2028) 
 <br>
 • 💻 I’m passionate about coding, technology, and solving problems
-• 🚀 I’m currently exploring web development and embedded systems
-• 💞️ I’m looking to collaborate on projects and learn with you
+<br>
 • 📚 Always open to new challenges and opportunities to grow
+<br>
 • 🔗 Let’s connect! Feel free to explore my projects and suggest improvements
+<br>
 • 📫 How to reach me: joaorozestraten@gmail.com
 
